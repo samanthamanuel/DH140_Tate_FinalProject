@@ -1,5 +1,7 @@
 # DH140_Tate_FinalProject
 
+
+
 **Description of Topic:**
 The topic of my project: Measuring the diversity/representation of artists and objects within Tate’s collection. 
 
