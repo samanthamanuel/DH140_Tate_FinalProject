@@ -1,6 +1,8 @@
 # DH140_Tate_FinalProject
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samanthamanuel/DH140_Tate_FinalProject/HEAD)
+
 
 **Description of Topic:**
 The topic of my project: Measuring the diversity/representation of artists and objects within Tate’s collection. 
