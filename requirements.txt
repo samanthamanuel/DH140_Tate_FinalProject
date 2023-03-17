@@ -1,5 +1,4 @@
 Pandas
 Matplotlib
 Numpy 
-nltk.probability
-FreqDist
+NLTK
