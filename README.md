@@ -2,6 +2,7 @@
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samanthamanuel/DH140_Tate_FinalProject/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samanthamanuel/DH140_Tate_FinalProject/blob/main/Tate_Final_Project_Notebook.ipynb/HEAD)
 
 
 **Description of Topic:**
