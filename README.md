@@ -11,7 +11,7 @@ The topic of my project: Measuring the diversity/representation of artists and o
 **Questions of interest:**
 
 
-*Gender Diversity.* Are there any trends in acquisition, specifically in the accessions of women vs men? (looking also to maybe note under which museum Director the objects were acquired)
+*Gender Diversity.* Are there any trends in acquisition, specifically in the accessions of women vs men?
 
 *Collection Diversity.* Are there any trends or preferences that exist with the types of objects chosen to be a part of the collection? 
 
